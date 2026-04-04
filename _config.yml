@@ -15,7 +15,6 @@
 #baseurl: /The-Pachico-Verdadero-Family-Collection
 # location of code, the full url to your github repository
 source-code: https://kaiverdadero1-hash.github.io/The-Pachico-Verdadero-Family-Collection/
-featured-image: outing.jpg
 
 ##########
 # SITE SETTINGS
@@ -29,6 +28,7 @@ tagline: Keep. Share. Remember.
 description: "A collection of Pachico-Verdadero family photos and important documents—past and present, big moments and everyday life. Kept together to remember where we came from and pass it on to those who come next."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Verdadero, Kyla P.
+featured-image: outing.jpg
 
 ##########
 # COLLECTION SETTINGS
